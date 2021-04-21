@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Methionine",
+        "codons": [
+            "AUG"
+        ]
+    },
+    {
+        "name": "Phenylalanine",
+        "codons": [
+            "UUU",
+            "UUC"
+        ]
+    },
+    {
+        "name": "Leucine",
+        "codons": [
+            "UUA",
+            "UUG"
+        ]
+    },
+    {
+        "name": "Serine",
+        "codons": [
+            "UCU",
+            "UCC",
+            "UCA",
+            "UCG"
+        ]
+    },
+    {
+        "name": "Tyrosine",
+        "codons": [
+            "UAU",
+            "UAC"
+        ]
+    },
+    {
+        "name": "Cysteine",
+        "codons": [
+            "UGU",
+            "UGC"
+        ]
+    },
+    {
+        "name": "Tryptophan",
+        "codons": [
+            "UGG"
+        ]
+    },
+    {
+        "name": "STOP",
+        "codons": [
+            "UAA",
+            "UAG",
+            "UGA"
+        ]
+    }
+]
