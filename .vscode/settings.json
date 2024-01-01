@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/workspaces/exercism-go-solutions/.bin:${env:PATH}"
+    },
+}

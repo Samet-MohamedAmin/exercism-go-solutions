@@ -1,0 +1,6 @@
+
+# user defined dirs
+.env
+.bin
+.tmp
+.conf
